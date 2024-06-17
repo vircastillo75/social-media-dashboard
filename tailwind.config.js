@@ -28,7 +28,7 @@ export default {
       },
 
       fontFamily: {
-        inter: ['Inter', 'sans-serif'],
+        inter: ['Inter'],
       },
 
       fontWeight: {
